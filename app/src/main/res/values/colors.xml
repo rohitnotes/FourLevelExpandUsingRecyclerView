@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#353535</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFEB3B</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="firstLevelTextViewBackgroundColor">#818181</color>
+    <color name="secondLevelTextViewBackgroundColor">#919191</color>
+    <color name="thirdLevelTextViewBackgroundColor">#B6B6B6</color>
+    <color name="fourthLevelTextViewBackgroundColor">#EBE6E6</color>
+</resources>
